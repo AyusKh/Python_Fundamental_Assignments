@@ -1,7 +1,7 @@
 # Step 1: Create variables for each primitive data type
-int_var = 10
-float_var = 20.5
-string_var = "Hello"
+int_var = 44
+float_var = 123.5
+string_var = "Good"
 bool_var = True
 
 # Step 2: Perform operations
@@ -11,7 +11,7 @@ int_sum = int_var + 5
 float_product = float_var * 2  
 
 # String concatenation
-greeting = string_var + ", World!" 
+greeting = string_var + ", day! " 
 
 # Logical operations
 bool_and = bool_var and False       
