@@ -1,5 +1,5 @@
 def classify_number():
-            num = int(input("Enter a number (or type '0' to exit): "))
+            num = int(input("Enter a number: "))
             if num > 0:
                 print("The number is positive.")
             elif num < 0:
